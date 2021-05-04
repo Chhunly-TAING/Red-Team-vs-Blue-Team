@@ -95,6 +95,4 @@ As the Red Team, I will attack a vulnerable VM within my environment, ultimately
 
 <img width="951" alt="blue-team webdav" src="https://user-images.githubusercontent.com/80186549/116966912-877c4c80-acf4-11eb-8f6d-14b3dd169a32.PNG">
 
-- For further more please refer to my pdf where I attached it with my work.
-
-
+- For further more please refer to my [pdf](https://github.com/Chhunly-TAING/Red-Team-vs-Blue-Team/files/6419305/_Project.2.Template.Chhunly.TAING.pdf).
